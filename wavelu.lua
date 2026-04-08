@@ -1,1 +1,1 @@
-setAvatarSize(5)
+setAvatarSize(1)
